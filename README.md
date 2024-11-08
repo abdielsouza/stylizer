@@ -7,29 +7,4 @@
 
 ## Where i can access the stylizer project:
 
-you can access by clicking <a href="https://stylizer-project.vercel.app">here</a>
-
-<style>
-    * {
-        font-family: courier;
-        text-align: justify;
-    }
-
-    #description {
-        padding: 4px;
-        border-width: 2px;
-        border-color: white;
-    }
-
-    p {
-        text-shadow: 0 0 3px green, 0 0 5px yellow;
-    }
-
-    h1 {
-        text-shadow: 0 0 3px green, 0 0 5px #20ee30;
-    }
-
-    h2 {
-        text-shadow: 0 0 5px yellow, 0 0 5px #20aaef;
-    }
-</style>
+you can access by clicking <a href="https://stylizer.vercel.app">here</a>
